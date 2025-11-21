@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my workplace of projects school is making me do
 ---
 
